@@ -1,0 +1,501 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+france,,qDckqNPCW4yXAawlmWoCdwLpJgOe,retail,linkedin.com/company/fantazia,sotteville-lès-rouen,fantazia,normandie,1-10,fantazia-shop.fr
+france,,GaZ26uKhwYrlBHrJIREqnQfGIl0O,retail,linkedin.com/company/boucherie-sovian-gazeau-et-fils,canéjan,boucherie sovian-gazeau et fils,nouvelle-aquitaine,11-50,
+france,,yS27FnPGI4Vqm9P2RQiohQHUspNa,retail,linkedin.com/company/la-boucherie-des-docks,biarritz,la boucherie des docks,nouvelle-aquitaine,1-10,
+france,,6RnaB7192zKdaZ66FZ629Aun0uC1,retail,linkedin.com/company/bebejoue,le plan-de-la-tour,bebejoue,provence-alpes-côte d'azur,1-10,
+france,,YXBMBHC8CECcCbuFReUFQQHOqa8q,retail,linkedin.com/company/au-comptoir-des-marques,la trinité,au comptoir des marques,provence-alpes-côte d'azur,1-10,
+france,,bXMSTXKy2cRZz7gJsl3HdQIMQBfP,retail,linkedin.com/company/yb-distri,cérans-foulletourte,yb distri,pays de la loire,1-10,
+france,2021,B3eFB1ktJvtLhnexY7GEeQOvpMzH,retail,linkedin.com/company/lxsir,sainte-croix-du-mont,lxsir,nouvelle-aquitaine,1-10,lx-sir.fr
+france,,r5QN8tB0jHeCpWmGlRdN2QgPmFKB,retail,linkedin.com/company/atelier-du-mochi,aix-en-provence,atelier du mochi,provence-alpes-côte d'azur,1-10,atelierdumochi.com
+france,,OWAuNy7eOEwfCE3tcyGhLQHCzutk,retail,linkedin.com/company/nil-gallery,paris,nil gallery,île-de-france,1-10,
+france,,CtCwnuHCkBmUxgUUdxfAgg888pPZ,retail,linkedin.com/company/comme-une-empreinte,saint-julien-en-genevois,comme une empreinte,auvergne-rhône-alpes,1-10,
+france,2015,rryFyeFheBlDnTMPe1ogLgL8Tw6t,retail,linkedin.com/company/goutte-de-thé,paris,goutte de thé,île-de-france,1-10,gouttedethe.com
+france,,VpRFBhYtKvdueW4vQX0efQKRC7Qb,retail,linkedin.com/company/sarl-cime-sport,saint-maur-des-fossés,sarl cime sport,île-de-france,1-10,
+france,,XTECBde8IPXA5rK3kmx6CQyO9jKn,retail,linkedin.com/company/evolu'sport,strasbourg,evolu'sport,grand est,1-10,
+france,,IDtZyWjfULibv1HtjTgCZguBu8Bt,retail,linkedin.com/company/paul-chausseur,lille,paul chausseur,hauts-de-france,1-10,
+france,,H9B6kH8rlj2Eq7KoLgU6YgU7kzYy,retail,linkedin.com/company/garage-jost-sarl,goxwiller,garage jost sarl,grand est,11-50,
+france,,Q7yCGwi4gpmErChTlKCKyQCreXRQ,retail,linkedin.com/company/recyclor,paris,recyclor,île-de-france,1-10,recyclor.com
+france,,etY1JAPRvMDvxkOw10Wn2QGoPRci,retail,linkedin.com/company/howell-distri,saint-martin-boulogne,howell distri,hauts-de-france,1-10,
+france,,2laMymylBL67U3NbKwMD6Qnm0ZnY,retail,linkedin.com/company/arard-confort,aubagne,arard confort,provence-alpes-côte d'azur,1-10,
+france,,zi8pFOMQfgsGk5fRtSZRaALEsY83,retail,linkedin.com/company/antiquités-philippe,croix,antiquités philippe,hauts-de-france,1-10,
+france,,cCrrphTaXieQjnDPeMQiQQsDSDIf,retail,linkedin.com/company/lmb-equipements,valras-plage,lmb equipements,occitanie,1-10,
+france,,i8bFaMBqtpFlRVP7BpKjRwH9TMof,retail,linkedin.com/company/vie-et-aura,quimper,vie et aura,bretagne,1-10,
+france,,fuUzyWdQC7T0YyxO14FYHAoHcuxz,retail,linkedin.com/company/vap'herault,montpellier,vap'herault,occitanie,1-10,
+france,,4lL87GPdT34QF4ICaDonVAU0uqPk,retail,linkedin.com/company/purplay,nantes,purplay,pays de la loire,1-10,
+france,,1v0ByFESkryt11yWLh04kAMnZYo0,retail,linkedin.com/company/domaine-de-la-patience,saint-julien-du-serre,domaine de la patience,auvergne-rhône-alpes,1-10,domainedelapatience.com
+france,,Tyk8RdPk9gvidWb4yShgbAZlFJLf,retail,linkedin.com/company/cave-du-grumeur,bourg-en-bresse,cave du grumeur,auvergne-rhône-alpes,1-10,cavedugrumeur.com
+france,,BaKUjHf51C1tluBq5ICypgo7IYVT,retail,linkedin.com/company/cholet-dominique7,longnes,cholet dominique7,île-de-france,1-10,
+france,,FvXLi6aa6eNEVA4UA3g4VwAePRHf,retail,linkedin.com/company/info-multi-services,minihy-tréguier,info multi services,bretagne,1-10,
+france,,UdhqC6Qphy1NcBR8SOXtbAlwM15p,retail,linkedin.com/company/a-titre-d'aile,lyon,a titre d'aile,auvergne-rhone-alpes,1-10,atitredaile.com
+france,,pawJiy8YXkWjnSaY3omGCw55mU6m,retail,linkedin.com/company/lydior,saint-grégoire,lydior,bretagne,1-10,
+france,,2HXlrBI1CZLaTeqLbnEFIQvnBqU0,retail,linkedin.com/company/angresse-primeurs,angresse,angresse primeurs,nouvelle-aquitaine,1-10,
+france,,8KaB41izljF2ydU2BTOh6wIu9jTm,retail,linkedin.com/company/lyci,lyon,lyci,auvergne-rhone-alpes,1-10,
+france,,kdzMti4QKPJLt0CFUaTntQKGTKdR,retail,linkedin.com/company/glp-distribution,montmarault,glp distribution,auvergne-rhône-alpes,1-10,
+france,,nDAZwtmcEWDi2aAiX6NseQuygoGW,retail,linkedin.com/company/alser-angers,angers,alser angers,pays de la loire,1-10,
+france,,Q7TzIUGPX74mGbCpTHvBsAbJufox,retail,linkedin.com/company/snc-arze-tabac-presse,séné,snc arze tabac presse,bretagne,1-10,
+france,,A8bCb8n5nscFu2F4GY7rJwz5gbT6,retail,linkedin.com/company/galerie-vivre-art,l’isle-sur-la-sorgue,galerie vivre art,provence-alpes-côte d'azur,1-10,
+france,2006,1VDGLkahCBEwHl24ckZawwiM5xrT,retail,linkedin.com/company/tike-securite,watten,tike sécurité,hauts-de-france,11-50,tike-securite.fr
+france,,ShkPOTy5Grl6ZJgkzZE5bgT4Jh32,retail,linkedin.com/company/g.j.-yago,quétigny,g.j. yago,bourgogne-franche-comté,1-10,
+france,,kDWenzBrtySCxZ9UGMdCoA2rhmg1,retail,linkedin.com/company/pharmacie-sainte-victoire,fuveau,pharmacie sainte victoire,provence-alpes-côte d'azur,1-10,
+france,,qXf3maDrQB6m6p4M0bXcBQI5YDHo,retail,linkedin.com/company/l'exedre,besancon,l'exedre,bourgogne-franche-comte,1-10,
+france,,SPuLGgZFqxd03L0BkKGjeASmLDgj,retail,linkedin.com/company/sarl-optique-de-la-mairie,champigny-sur-marne,sarl optique de la mairie,île-de-france,1-10,
+france,,zKTvfDVAC9ngFBvoaTBuBQszmUkx,retail,linkedin.com/company/sarl-talha,sainte-foy-lès-lyon,sarl talha,auvergne-rhône-alpes,1-10,
+france,,XkfadGZ2VqnDxZLQJ6GHswucikMn,retail,linkedin.com/company/fu-gui,décines-charpieu,fu gui,auvergne-rhône-alpes,1-10,
+france,,rGg29GaAvq05MQTJYa5QNAQUZfCj,retail,linkedin.com/company/sarl-chaam,rue,sarl chaam,hauts-de-france,1-10,
+france,1981,h6A9WU9CfxpkLlDhARvlLQXnv9jD,retail,linkedin.com/company/selarl-pharmacie-lefevre-scelles,bihorel,selarl pharmacie lefevre-scelles,normandie,1-10,
+france,,UKTc8qgES3YReUBPTfI6twSgDLWD,retail,linkedin.com/company/eurl-optic-2000-ceret,céret,eurl optic 2000 ceret,occitanie,1-10,
+france,,sqelCeQ7M4jSOBQVgfU7Xg3CYIoc,retail,linkedin.com/company/fresnes-distribution,fresnes,fresnes distribution,île-de-france,1-10,
+france,,3qboIL7EW08UIuQUE5cAnQmXOTMJ,retail,linkedin.com/company/bedu-opticiens,perpignan,bedu opticiens,occitanie,1-10,beduopticien.com
+france,,5lQe1iD4NfhuF7YzXwAMOQJQ8kqk,retail,linkedin.com/company/sa-gabardos,saintes,sa gabardos,nouvelle-aquitaine,11-50,gabardos.fr
+france,,vlm9BdgsbelnfLM2Z2s0ygHqNVLb,retail,linkedin.com/company/fu-le-lai,nancy,fu le lai,grand est,1-10,
+france,,dASPsl4tgQoMO9TAAn0djQsAa5pE,retail,linkedin.com/company/creations-bonnichon,paris,creations bonnichon,île-de-france,1-10,
+france,,GxHMtzE2DpGArCHhAX8iQgdkIyIr,retail,linkedin.com/company/biliti,mouilleron-le-captif,biliti,pays de la loire,1-10,
+france,,DgkIns9x8BopyJVgimkBqATQM8R9,retail,linkedin.com/company/sarl-brico-germain,la villedieu-du-clain,sarl brico-germain,nouvelle-aquitaine,1-10,
+france,1985,UrErxtiYFnH1YmCM4gmJfANrOrxR,retail,linkedin.com/company/groupe-jullien-truffaut,saint-germain-de-la-grange,groupe jullien - truffaut,île-de-france,51-200,jardineries-groupejullien.fr
+france,,wz1bXedwaHGHPYatkTyZxQsCWuhy,retail,linkedin.com/company/sarl-boite-beaute-sourire,neuillé-le-lierre,sarl boite beaute sourire,centre-val de loire,1-10,
+france,,bNBbGzfn50lSnEUd6CBAeQ5fZeUh,retail,linkedin.com/company/jardinerie-du-bois-du-sart,amiens,jardinerie du bois du sart,hauts-de-france,1-10,jardinerie-boisdusart.com
+france,,OWFJx3zs8YRQxhMpdKGiXwKFQ645,retail,linkedin.com/company/infrarouge-idf,montévrain,infrarouge idf,île-de-france,1-10,
+france,,NNw0PzkLBPbTbNKWEkOCJgFR0mxu,retail,linkedin.com/company/pineau-anthony,beaucouzé,pineau anthony,pays de la loire,1-10,
+france,,2IwmLF9kdkFneO3gLWn8ZAK2y4Lu,retail,linkedin.com/company/opaline-88,woippy,opaline 88,grand est,1-10,
+france,,iuOpitA3mF03k6Ezs2kqCw7A2hrn,retail,linkedin.com/company/aurelo,périgueux,aurelo,nouvelle-aquitaine,1-10,
+france,,4sPKSMwS1Bt3fq6giZYicgwJgYVq,retail,linkedin.com/company/mademoiselle-sans-gêne,paris,mademoiselle sans gêne,île-de-france,1-10,instagram.com/mllesansgene
+france,,xjv1lbaeCaqrG8O8bQV7gQhdsdoS,retail,linkedin.com/company/sarl-t.a.d.,viuz-la-chiésaz,sarl t.a.d.,auvergne-rhône-alpes,1-10,
+france,,TGcBeR2MixV1utfywbH1qw9XOpp7,retail,linkedin.com/company/vikie-barcelona,vannes,vikie barcelona,bretagne,1-10,
+france,,7rCGk0XBKvxamYBnuroTiAHsudqX,retail,linkedin.com/company/a&t-distribution,ambérieu-en-bugey,a&t distribution,auvergne-rhône-alpes,1-10,
+france,,ei68p6iUWWFIeTkBan42SQrL4Cwv,retail,linkedin.com/company/les-tresors-de-lysa,mouans-sartoux,les tresors de lysa,provence-alpes-côte d'azur,1-10,
+france,,ZRH8CyYX76pxLL0Mj7Y93gcN0arj,retail,linkedin.com/company/prosellier-sarl,hennebont,prosellier sarl,bretagne,1-10,
+france,,9GwIpRE2lu3Clhkv8KzbVQLbtg10,retail,linkedin.com/company/config-car,lutterbach,config car,grand est,1-10,
+france,,NLhCRKTICJS8Fh2RCR2sbgYjPJUa,retail,linkedin.com/company/sarl-camping-le-mas-de-padre,balaruc-les-bains,sarl camping le mas de padre,occitanie,1-10,
+france,,F7Pc0NEvEdnHGaq9Y2VPPAkps1SA,retail,linkedin.com/company/madame-laurence,saint-ouen,madame laurence,île-de-france,1-10,madamelaurence.com
+france,,CC45GuVaXM1WAc6cBnysoQaDxDxS,retail,linkedin.com/company/inter-presse,nice,inter presse,provence-alpes-côte d'azur,1-10,
+france,,RQgaT5PcxV80cod95BMESQzpd4Ib,retail,linkedin.com/company/autos-motos-cyclos-serv-assis.,paris,autos motos cyclos serv assis.,île-de-france,1-10,
+france,,9r7FyPKPV2SDJM8GfQjs3AuJyLBF,retail,linkedin.com/company/kani-international,montgeron,kani-international,île-de-france,1-10,
+france,,z46eh7eY3u1Orp3goXCelQzP8K3Y,retail,linkedin.com/company/digital-bazar,paris,digital bazar,île-de-france,1-10,digitalbazar.com
+france,,26tn13GvaC3GsRIqRuY1JgQZH83b,retail,linkedin.com/company/eurl-s2bm,saint-just-en-chaussée,eurl s2bm,hauts-de-france,1-10,
+france,,5vwYXcBBEq1anhCGBWcpkQAUTg3I,retail,linkedin.com/company/concession-peugeot---slica,saint-fons,concession peugeot - slica,auvergne-rhône-alpes,1-10,
+france,,w1q4iCp8pI6DIGMdzQv38QRN62og,retail,linkedin.com/company/veloland-bordeaux,eysines,veloland bordeaux,nouvelle-aquitaine,1-10,velolandbordeaux.fr
+france,,R5m6fcLgXcFl3UF2M3W7lwsl1E7r,retail,linkedin.com/company/snc-le-saint-pardoux,saint-pardoux-la-rivière,snc le saint pardoux,nouvelle-aquitaine,1-10,
+france,,hnnuRS3lnxkHQXII468dBAKFmgbC,retail,linkedin.com/company/sarl-symphonie-fleurs,joncherey,sarl symphonie fleurs,bourgogne-franche-comté,1-10,
+france,,CZAyQBTiQ5ntupo6hicvqgkdDHBt,retail,linkedin.com/company/cave-bourvence,plan-de-cuques,cave bourvence,provence-alpes-côte d'azur,1-10,cavebourvence.fr
+france,,oHA0esmOm8UfjbsAz1lxrQuAVhjU,retail,linkedin.com/company/jeff-de-bruges-fréjus,le bois joly,jeff de bruges fréjus,centre-val de loire,1-10,
+france,1989,5qRuaG5457lnK32MB4C5gA9Ijz5D,retail,linkedin.com/company/vtt-loisirs,soorts,joe bike,nouvelle-aquitaine,11-50,joebike.fr
+france,2010,iJ1a75UpMTujIZgODnyNtgEuJ3Le,retail,linkedin.com/company/poisplume,paris,poisplume,île-de-france,1-10,poisplume.com
+france,,hcrVLXj00o25kBoX9BLeMgRkxiEZ,retail,linkedin.com/company/panodeco,sens,panodeco,bourgogne-franche-comté,1-10,
+france,2021,VV4NI1CPpK3s0ep8ppeDPwpfAosy,retail,linkedin.com/company/jogetjim,roubaix,jog & jim,hauts-de-france,1-10,jogetjim.fr
+france,,47hgNPCL4BlSXF0JzYcCiAT7ArHE,retail,linkedin.com/company/ikks-general-store,saint-denis-de l’hôtel,ikks general store,centre-val de loire,1-10,
+france,,i1ah3JdeqhXBD6I3rn6C0ANiSJ2t,retail,linkedin.com/company/tabac-cave-a-cigares-art-et-fumee,le lavandou,tabac cave a cigares art et fumee,provence-alpes-côte d'azur,1-10,tabac-cave-a-cigares-art-et-fumee.business.site
+france,,VYFdTs5UzHoz5ldRKi4jkQzwxRIq,retail,linkedin.com/company/chahinaze,lievin,chahinaze,hauts-de-france,1-10,
+france,,5t4MsCiQmHZ8MuHHOVpiGgzAsETO,retail,linkedin.com/company/shaun-tattoo,chambery,shaun tattoo,auvergne-rhone-alpes,1-10,shauntattoo.com
+france,,euzOClCVPSJjuP24OiAkWAPMnc6l,retail,linkedin.com/company/sarl-pasdeloup,le rheu,sarl pasdeloup,bretagne,1-10,
+france,1996,Kaecad2EwGv3olbQpBMQQwluWplE,retail,linkedin.com/company/julhes-paris,paris,julhès paris,île-de-france,51-200,julhes-paris.fr
+france,,8G5lxqtfncvRfNgl4bJphQJOlb6p,retail,linkedin.com/company/boutique-orange---tgb,toulouse,boutique orange - tgb,occitanie,1-10,
+france,,KAYea7xdBKC5W7Vz1HRzXArK8Uvx,retail,linkedin.com/company/salam-halal,marseille-en-beauvaisis,salam halal,hauts-de-france,1-10,salamhalalmarket.com
+france,,BY3Cf2i4vq6Xnr2oZZkdbAbPqgpt,retail,linkedin.com/company/ekso-watches,paris,ekso watches,île-de-france,1-10,eksowatches.com
+france,,7LXAUjKLtkXOpXeuseQGagj7cq9Q,retail,linkedin.com/company/centre-commercial-plein-sud,aubière,centre commercial plein sud,auvergne-rhône-alpes,1-10,ccpleinsud.fr
+france,,eqlOMmragtMatWYTCyhC4AJ08j7t,retail,linkedin.com/company/maxi-bebe,issy-les-moulineaux,maxi bebe,île-de-france,1-10,
+france,,U5ykRIVaQojtpgHXx7FoYwocSgcT,retail,linkedin.com/company/les-tresors-de-sandra,marines,les tresors de sandra,île-de-france,1-10,
+france,,XiHACuXmqiNWSsEwpBibmACbKeLc,retail,linkedin.com/company/villerdis,la ferté-milon,villerdis,hauts-de-france,51-200,
+france,,XACiR2G12ZZrXtYyAj4BWAXv1A5X,retail,linkedin.com/company/tabaclub,paris,tabaclub,île-de-france,1-10,
+france,2022,EywAxdnn1xBBKe0a5LCueQUbgKOC,retail,linkedin.com/company/lulu-au-lit,marseille-en-beauvaisis,lulu au lit,hauts-de-france,1-10,luluaulit.com
+france,2022,lGdEjLL8uf6MwL7BPXDWIQhrPSh7,retail,linkedin.com/company/motorcycle-circus,les gibets,motorcycle circus,auvergne-rhône-alpes,1-10,motorcycle-circus.fr
+france,,i8oVdTKTpZsSCwbDYh7ozAZWQtbr,retail,linkedin.com/company/ladies---sarl,nancy,ladies - sarl,grand est,1-10,
+france,,RVS2RC46YyWw6Dp2tfHP3AtmsDOo,retail,linkedin.com/company/rev-mural,andernos-les-bains,rev mural,nouvelle-aquitaine,1-10,revmural.com
+france,,S9FRBizpN837297H6aI4BwxBrzvb,retail,linkedin.com/company/beneline,caen,beneline,normandie,1-10,
+france,,qsCNWKZYfHtenL4BRz7Rjw5bsnYU,retail,linkedin.com/company/davidel,castelnau-le-lez,davidel,occitanie,1-10,
+france,,sbNHGjL5P0n2BrzY9jA1ggs4TbvQ,retail,linkedin.com/company/cuir-j.d.,le mans,cuir j.d.,pays de la loire,1-10,
+france,,atxcAjLRgpXpzgFjjnMBNAa54XS7,retail,linkedin.com/company/optique-cachera,pont-sainte-maxence,optique cachera,hauts-de-france,1-10,
+france,,FkEaWupTtURSjVtG0B0CXgj2ZRH1,retail,linkedin.com/company/a2v-service,bobigny,a2v service,île-de-france,1-10,
+france,,szUXwcoemtCqeSlN6W5xdQVUW4Ek,retail,linkedin.com/company/sarl-verrerie-d'art-de-kaysersberg,kaysersberg,sarl verrerie d'art de kaysersberg,grand est,1-10,
+france,,FWC4e0BrBRGDcC0psBzKYQFptDwa,retail,linkedin.com/company/ptit-loustic,annonay,ptit loustic,auvergne-rhône-alpes,1-10,ptitloustic.fr
+france,,IhBoffC7BBaPHcnOqs9iqw97MeAM,retail,linkedin.com/company/mobale-ny,paris,mobale ny,île-de-france,1-10,mobale.fr
+france,,CCISC1IZ6DbIDFwtKB8aMQw53r5R,retail,linkedin.com/company/aimecube,paris,aimecube,île-de-france,1-10,
+france,,Ch55TKb8O59r6irTy2QGnAqmyZ7M,retail,linkedin.com/company/sarl-comme-dans-un-moulin,crécy-la-chapelle,sarl comme dans un moulin,île-de-france,1-10,
+france,2015,eSqepHeRy2s4MsH76Yx4bQzt4LR1,retail,linkedin.com/company/blumstein-créateur-floral,strasbourg,blumstein créateur floral,grand est,1-10,blumstein-fleuristes.com
+france,,KWiCOExSbVhMJXxySRSl4QKojp7K,retail,linkedin.com/company/autoccasions,merlevenez,autoccasions,bretagne,1-10,autoccasions56.fr
+france,,TpRPag6l7SqH2WyzAe7C4gx5AXm2,retail,linkedin.com/company/magik'flore,limay,magik'flore,île-de-france,1-10,
+france,2021,nTIkvPt56lAqSBUt80BohQbNh21t,retail,linkedin.com/company/marché-des-vénètes,le hézo,marché des vénètes,bretagne,1-10,lemarchedesvenetes.fr
+france,,eVPkt3DhjcABHjfVMykkCwI9nQ3s,retail,linkedin.com/company/valclair,fougères,valclair,bretagne,1-10,
+france,,iY9Lee8Es2jzJ5ysMaPkOg7a7zwj,retail,linkedin.com/company/le-soldeur,limoges-fourches,le soldeur,île-de-france,1-10,
+france,1995,bntnF5ORVmezDe4OrExVvQGbODyF,retail,linkedin.com/company/allee-du-bureau-crespieres,crespières,allée du bureau,île-de-france,11-50,allee-du-bureau.com
+france,,7iuzCU1lBk0RmDe9VwaTQgpO6mzd,retail,linkedin.com/company/vision-bassin,biganos,vision bassin,nouvelle-aquitaine,1-10,visionbassin.fr
+france,,fb9NULo8brv7WujsSQQF3wu8rYeU,retail,linkedin.com/company/lenel,aubagne,lenel,provence-alpes-côte d'azur,1-10,
+france,,qWeK0zL5dLgnQeSxTLesMgYRh4eG,retail,linkedin.com/company/lemarchanddelunettes,veigné,le marchand de lunettes,centre-val de loire,1-10,lmlunettes.fr
+france,,1nTd07LIfHf7HAtRxbWucwDhS5nZ,retail,linkedin.com/company/cnab-83,les petites bordes,cnab 83,centre-val de loire,1-10,
+france,,6rpfKBK4GE6XTg9KoLONcAosxXYl,retail,linkedin.com/company/vaudis,paris,vaudis,île-de-france,11-50,
+france,,li02ThXk6MafFECoyBv0wQIXYj9b,retail,linkedin.com/company/2m-autos,mantes-la-ville,2m autos,île-de-france,1-10,2mautos.fr
+france,,7IepdQJY9Ebrlz17WJomIwgF5jP6,retail,linkedin.com/company/g2'id,nimes,g2'id,occitanie,1-10,
+france,,QILFQIrdKIVIGi0lnVufRgLDlXq3,retail,linkedin.com/company/cap-claro,ablain-saint-nazaire,cap claro,hauts-de-france,1-10,
+france,1979,ArPLvoQkSBbrFaDQjakKCgpMpOkA,retail,linkedin.com/company/cogem-aquapur,vaulx-en-velin,aquapur,auvergne-rhône-alpes,11-50,cogem.fr
+france,2013,GcWXkwghcAkoCoLq1BBJKQtkEolg,retail,linkedin.com/company/missland,la londe-les-maures,missland,provence-alpes-côte d'azur,11-50,missland.com
+france,,tWBzX4n2sfp5VQX7zTNn8Q0ytP4i,retail,linkedin.com/company/dressing-maternity,hyères,dressing maternity,provence-alpes-côte d'azur,1-10,dressingmaternity.fr
+france,,sLuIxZy9eVCcZc03HLvt8gymLi67,retail,linkedin.com/company/mta-express,montigny-lès-cormeilles,mta express,île-de-france,1-10,
+france,,PEfRQWeXUC59azN6Un5mZgGzEwta,retail,linkedin.com/company/fabre-marion-nathalie,pau,fabre marion nathalie,nouvelle-aquitaine,1-10,
+france,,2uzi8QXkvh4v42wBdIkpagLZtzef,retail,linkedin.com/company/commete,porto-vecchio,commete,corse,1-10,
+france,,p92c6vkOPJVePeo62AoFWABkzHEi,retail,linkedin.com/company/librairie-michael-seksik,conches-sur-gondoire,librairie michael seksik,île-de-france,1-10,
+france,,j1h1Hn4dqa7hno8MBMF2BgQkgC26,retail,linkedin.com/company/cotepiscine,la tremblade,côte piscine,nouvelle-aquitaine,1-10,cotepiscines.com
+france,,vwkG0C03AEB2qZEOzI94FAImmRtD,retail,linkedin.com/company/edulud,montgaillard,edulud,occitanie,1-10,
+france,,HxT5J8YHXbcFJGZLPB8SNgCAtoys,retail,linkedin.com/company/attise-l'atre,alençon,attise l'atre,normandie,1-10,attiselatre.fr
+france,,C2R13hOaEftDDuTv5Tj8UgrV4Vt6,retail,linkedin.com/company/c'tici,bandol,c'tici,provence-alpes-côte d'azur,1-10,
+france,2016,yFxIvjHeRGuggnOTMua9tQS5coZb,retail,linkedin.com/company/atelier416,maurepas,atelier 416,île-de-france,1-10,
+france,,Gw8C7jO1dpaC7boFfnN4HwlUDLYA,retail,linkedin.com/company/d.-deco-sarl,saint-leu-la-forêt,d. deco sarl,île-de-france,1-10,
+france,2019,UdShoQ5IgPBrYhAVsI8Uug8AOgNu,retail,linkedin.com/company/la-touche-originale,schiltigheim,la touche originale,grand est,1-10,latoucheoriginale.fr
+france,,a52BnSONdEEgEY2rCIwWvQng1c62,retail,linkedin.com/company/gliss'n-bikes,lons,gliss'n bikes,nouvelle-aquitaine,1-10,
+france,,n1c7L4XtXbP6OxLiR1yrRQj43NZt,retail,linkedin.com/company/dafy-moto-buchelay,buchelay,dafy moto buchelay,île-de-france,11-50,
+france,,SncPoaM9zBtDrbU0fbSVDwoI0nMW,retail,linkedin.com/company/optique-leseine,carnoux-en-provence,optique leseine,provence-alpes-côte d'azur,1-10,
+france,,3PCSUrA4QCHTOKftB9AWDAqMUpd1,retail,linkedin.com/company/le-lutin-bleu,cannes,le lutin bleu,provence-alpes-côte d'azur,1-10,
+france,,mKLBE8nvRss8hxxfa6e68wVVj5V0,retail,linkedin.com/company/riahi-sarah,,riahi sarah,,1-10,
+france,,jE3NmACbJCpxfGYroCZ5DgzcRhP6,retail,linkedin.com/company/by-toan,,by toan,,1-10,bytoan.com
+france,,I9KQaHbsAe01FfdgKbm0Rw99CoBo,retail,linkedin.com/company/blanc-et-jardin,chartres,blanc et jardin,centre-val de loire,1-10,
+france,,GL00BADu1MGhxCo7yvOFdweDuDd4,retail,linkedin.com/company/andrighetto,vic-en-bigorre,andrighetto,occitanie,1-10,
+france,,P3BBneGbdno82ikEvePNxADGcI5T,retail,linkedin.com/company/arteflore,montesquieu-volvestre,arteflore,occitanie,1-10,arteflore.business.site
+france,,mXjSGrSnmFpqopuGXSpcjQAqu5Qd,retail,linkedin.com/company/goba-kaza,amilly,goba kaza,centre-val de loire,1-10,
+france,,oDF9eVh4UHTuG9uHeumKoQhp0skN,retail,linkedin.com/company/paul-et-marie-montpellier,rue de chorette,paul et marie montpellier,hauts-de-france,1-10,
+france,,jEMfbtQ5JC8pTsi8rOVKNw3g41cu,retail,linkedin.com/company/au-jardin-d'emilie,compiègne,au jardin d'emilie,hauts-de-france,1-10,aujardindemilie.com
+france,,WKXVGovP114kNMeBThyDZQdNuKhh,retail,linkedin.com/company/hypsis-info,bourgoin-jallieu,hypsis info,auvergne-rhône-alpes,1-10,hypsis.info
+france,,da6y9hXoCcDFzGdscoStyAA39gKH,retail,linkedin.com/company/erielle,herblay,erielle,île-de-france,1-10,
+france,,X3gJBiYcjpFRrHwWQwg2iAh7A86M,retail,linkedin.com/company/aaatchoum,versailles,aaatchoum,île-de-france,1-10,aaatchoum.fr
+france,,yVtdxK9mOrIkhI4RJQuZkAgdhE3h,retail,linkedin.com/company/charmag,arcachon,charmag,nouvelle-aquitaine,1-10,
+france,,zinXxs3dDIW1uENtQB1hGghz2Pj6,retail,linkedin.com/company/licciardi,la ciotat,licciardi,provence-alpes-côte d'azur,1-10,
+france,,gCJzZbAI28h0ydTpoFSiEwLpFkNV,retail,linkedin.com/company/audition-bartoli,marseille,audition bartoli,provence-alpes-côte d'azur,1-10,
+france,2007,vYqW8rw7I7BPaueyK6LyywfKJEmp,retail,linkedin.com/company/les-potagers-d'autan,rouffiac-tolosan,les potagers d'autan,occitanie,1-10,
+france,,3JuqCOyUt2TErOXFhBSVvwOhpuSC,retail,linkedin.com/company/ferucci-mobilier,vaulx-en-velin,ferucci mobilier,auvergne-rhône-alpes,1-10,ferucci.fr
+france,,GKoE66nPRzZr8EUKYBMwpgFFdc89,retail,linkedin.com/company/normandie-wine-club,la cave,normandie wine club,centre-val de loire,1-10,
+france,,IMX1OY8yxBwcSTVPKrKPnAj5FADy,retail,linkedin.com/company/sarl-c-m-j,wervicq-sud,sarl c m j,hauts-de-france,1-10,
+france,,weloQERgGTS9wqXf9wmP1AKAaz48,retail,linkedin.com/company/badaboum-web,mormant,badaboum web,île-de-france,1-10,
+france,,bWRSxI9aCTPVsfsmRa4clwO2xbqO,retail,linkedin.com/company/satoriz-grand-sud,paris,satoriz grand sud,île-de-france,1-10,
+france,,EaK16PjxpuAJqJoCLPSDgAmFTchc,retail,linkedin.com/company/pink-vision,naisey-les-granges,pink vision,bourgogne-franche-comté,1-10,
+france,,bAQn3114dlBWsr7pq9FqfAT6sJv2,retail,linkedin.com/company/vendee-fleurs,olonne-sur-mer,vendee fleurs,pays de la loire,1-10,
+france,,E51icsKi8i1AvexV7jbaQAqdcyvB,retail,linkedin.com/company/arès-store,marseille-en-beauvaisis,arès store,hauts-de-france,1-10,ares1998.com
+france,,T21jg0ryBZ1hDLfug5clmAZFxjJI,retail,linkedin.com/company/pieriga,andrésy,pieriga,île-de-france,1-10,
+france,,qkEjmdHSHi9nc1iW9cVEKwJ9ZgwO,retail,linkedin.com/company/sam-phone,lyon,sam phone,auvergne-rhone-alpes,1-10,
+france,,cb4Vdv0hQElQnlpwh3EdYgTBx8fT,retail,linkedin.com/company/harlock-sarl,saint-symphorien-de-lay,harlock sarl,auvergne-rhône-alpes,1-10,
+france,2003,Bi9fhaSeuXAPHfK3URTcQQfgquBn,retail,linkedin.com/company/peau-ethique,saint-chamond,peau-ethique,auvergne-rhône-alpes,1-10,peau-ethique.com
+france,,bQuXYXgFRKU70tSCxNeRzQwNLdpB,retail,linkedin.com/company/aux-produits-tripiers,guyancourt,aux produits tripiers,île-de-france,1-10,
+france,,i7rg78k2aBHikCLHwfJfoAG5IkXF,retail,linkedin.com/company/taban-miniatures,maisons-alfort,taban miniatures,île-de-france,1-10,taban-miniatures.com
+france,,9ZTw4Y0KCiLJzg8Z1qtFOQ2d2S74,retail,linkedin.com/company/holdiri,rieumes,holdiri,occitanie,11-50,
+france,,7SZv7JuiT86abGXJcgzMWwVCOudS,retail,linkedin.com/company/cabrolier,le bourg,cabrolier,occitanie,1-10,
+france,,KQ9rC9SKFRatoTPHMxMgjgMDciP6,retail,linkedin.com/company/eurl-boucherie-des-arcades,st chamas,eurl boucherie des arcades,provence-alpes-côte d'azur,1-10,
+france,,KDqQLtrCCMGFm6U5tZ6S9ARoJXN8,retail,linkedin.com/company/semiose,paris,semiose,île-de-france,1-10,
+france,,zYHRLGJ7LBkzJUDMc4mvughfneYW,retail,linkedin.com/company/rantanplan-jouets,les pennes-mirabeau,rantanplan jouets,provence-alpes-côte d'azur,11-50,
+france,,seaDmCQ7f3TSBEnlzaBwxwEnlTJ9,retail,linkedin.com/company/totola,juvisy-sur-orge,totola,île-de-france,1-10,
+france,,x7gsZL08DCU1CAIRvAq10wZigSVo,retail,linkedin.com/company/phifa,la rue-saint-pierre,phifa,normandie,1-10,phifa.org
+france,,DzU68As19rlcFXsQyk2SNA1QiIJ4,retail,linkedin.com/company/sid-consultant,saint-bonnet-de-vieille-vigne,sid consultant,bourgogne-franche-comté,1-10,
+france,,AATzEvohk7C3GGsmjncGoAuhqtLm,retail,linkedin.com/company/concession-labege-motors,labège,concession labege motors,occitanie,1-10,concessionnaire-auto.net
+france,,nHAzBGx5laXvjYncYnjV0A14QLRh,retail,linkedin.com/company/triperie-julien,carmaux,triperie julien,occitanie,1-10,
+france,,CfyApQem2lWfcenUPxD1MA3ckJ7b,retail,linkedin.com/company/videcasa,tonnay-charente,videcasa,nouvelle-aquitaine,1-10,videcasa.fr
+france,,z4hNBih7virzrkU54B1RigDIQqW6,retail,linkedin.com/company/shop-vintage,tours,shop vintage,centre,1-10,
+france,,pCROwfENQBMiLXtra8IV5wBMR1Ep,retail,linkedin.com/company/l'-escale-en-provence,challans,l' escale en provence,pays de la loire,1-10,lescaleenprovence.com
+france,,HwnaY6b2VBnab15CfHAPhAUnRROO,retail,linkedin.com/company/societe-d'exploitation-des-etablissements-maillochon,limoges-fourches,societe d'exploitation des etablissements maillochon,île-de-france,1-10,
+france,2022,mjTeAaCGhInjC4fbLxK3igHcXWrR,retail,linkedin.com/company/jeffairson,lille,jeffairson,hauts-de-france,1-10,jeffairson.com
+france,,9LBNohKkEB8guZlJL8WBDwJGCiGK,retail,linkedin.com/company/laurence-francois,villeneuve-sur-lot,laurence francois,nouvelle-aquitaine,1-10,
+france,2012,cYCLv1x0kZSuPsfGtyCSGQ7cTNLX,retail,linkedin.com/company/art-fermetures-52,saint-géosmes,art fermetures 52,grand est,11-50,artfermetures52.fr
+france,,IOYW1nBgWXPd2Fg2cXB35Q0qiC4z,retail,linkedin.com/company/p&s-international,paris,p&s international,île-de-france,1-10,
+france,,aUF8jEBqCSBrHYwRPOwu2AQ5xffp,retail,linkedin.com/company/clim-planete-diffusion,villeneuve-lès-maguelone,clim-planete diffusion,occitanie,1-10,
+france,2018,tIlsRvzm8H4fGbRKfBlDng4wRaCn,retail,linkedin.com/company/hymapro,marseille,hymapro,provence-alpes-côte d'azur,1-10,hymapro.fr
+france,,YN5Hsv7tpxfbAfFwPBEdGAsHeXcX,retail,linkedin.com/company/hottubs-company,lessy,hottubs company,grand est,1-10,
+france,,ii3aWOCBMWC5qJ0o2E1XngFDVU4h,retail,linkedin.com/company/comptoir-electro-menager,saint-raphaël,comptoir electro-menager,provence-alpes-côte d'azur,1-10,comptoirelectromenager.fr
+france,,DlYQT5Q0LkpqyBt59nfXzgfOM68b,retail,linkedin.com/company/courtoise-automobiles,pontoise,courtoise automobiles,île-de-france,51-200,
+france,,i8fxr90riMPC9FPeAQvEXgugp7km,retail,linkedin.com/company/braz-automobiles,saint-étienne-au-mont,braz automobiles,hauts-de-france,1-10,
+france,,6UB9EbBbMLGcImw7SXkC6wF67rx1,retail,linkedin.com/company/texipool,nort-sur-erdre,texipool,pays de la loire,1-10,
+france,,5CVCCqO4u0pIkr6XRN4CJAnb0Sqe,retail,linkedin.com/company/forum-gameandgeek,saint-étienne-au-mont,forum gameandgeek,hauts-de-france,1-10,forumgameandgeek.fr
+france,1988,zWFV8O5gAlYc9iXAtdDtbgmbq0lV,retail,linkedin.com/company/cuisson-réfrigération,ruffec,cuisson & réfrigération,nouvelle-aquitaine,11-50,cuisson-refrigeration.com
+france,,Of8wQrk9Lgk8CTCV30OtxA3xnq8H,retail,linkedin.com/company/l-g-c-a,avon,l g c a,île-de-france,1-10,
+france,,QKEaQ7OFQCedVovleH8XgggJnA5X,retail,linkedin.com/company/5e-avenue,carpentras,5e avenue,provence-alpes-côte d'azur,1-10,5eavenue.com
+france,,Uuyl5eoQsy2AXBUL6bqk2g9PoCrK,retail,linkedin.com/company/keskidi,la ferrière,keskidi,pays de la loire,1-10,keskidi.net
+france,,jVdNN73Bo8lwCU72qrqZCgNHgXc5,retail,linkedin.com/company/waykom,le puy-sainte-réparade,waykom,provence-alpes-côte d'azur,1-10,
+france,,0JVA4LHGLQ516wXqtqGKiwngL6pf,retail,linkedin.com/company/riviera-galerie-saint-paul,saint-paul-de-vence,riviera galerie saint paul,provence-alpes-côte d'azur,1-10,rivieragaleriesaintpaul.com
+france,,DLvoOo9VgUxz14bm9R0wfwUHswYc,retail,linkedin.com/company/kids-shop,le bord des rues,kids shop,hauts-de-france,1-10,
+france,,bh1R9umV9ImlwCCQNHXykAycMC7g,retail,linkedin.com/company/wild-kid's,antibes,wild kid's,provence-alpes-côte d'azur,1-10,
+france,,Lw9o4saNsrkVK3IhAoNN2Qcp3Bv3,retail,linkedin.com/company/la-mode-aux-pas,meulan-en-yvelines,la mode aux pas,île-de-france,1-10,
+france,,Q3EjpBeaNu8AKwYcfoxW6gZqnbQu,retail,linkedin.com/company/sarl-perin,esternay,sarl perin,grand est,1-10,
+france,,qYs4AMvFk9nRdRbATBbmGgRIzKtU,retail,linkedin.com/company/aroual-mohamed-ezzeddine,ajaccio,aroual mohamed ezzeddine,corse,1-10,
+france,,1iealCDJe6ykpYC0P7p3swqffOj8,retail,linkedin.com/company/boucherie-atek,paris,boucherie atek,île-de-france,1-10,
+france,,2y5XIHornxKpUevCBzyeVAFAv3TI,retail,linkedin.com/company/sarl-u-livanti,porto-vecchio,sarl u livanti,corse,1-10,
+france,,FeMAhTSSJ7BSBCTEOgqOJg4QbBdO,retail,linkedin.com/company/eurl-mehdi,charenton-le-pont,eurl mehdi,île-de-france,1-10,
+france,,BOCqWHpv2wNna5TeElT05QUXssor,retail,linkedin.com/company/krj-sarl,besancon,krj sarl,bourgogne-franche-comte,1-10,
+france,,lEPmLjUXmNQGw21Utuv58QdBVIkF,retail,linkedin.com/company/boutique-evènements,l’isle-sur-la-sorgue,boutique evènements,provence-alpes-côte d'azur,1-10,boutiqueevenements.com
+france,,et9bWHGIokAedXvO1s7n3waX21WF,retail,linkedin.com/company/épicerie-origines,anglet,épicerie origines,nouvelle-aquitaine,1-10,
+france,,aA5cNfuOvjqfFphhzzKkbwGrci1G,retail,linkedin.com/company/ack-auto,le bourget,ack auto,île-de-france,1-10,
+france,,J82x340TTcUTt8WbtxmgKgMSNucz,retail,linkedin.com/company/sarl-jouvray,savigny-sur-orge,sarl jouvray,île-de-france,1-10,
+france,2009,CeSOBidEfmQFiTml5Ui86wpAVYa0,retail,linkedin.com/company/cycloboost,lormont,cycloboost,nouvelle-aquitaine,1-10,cycloboost.com
+france,1994,rNQ7sgX7Iz8kVy20qMAQzgSylkKi,retail,linkedin.com/company/automatisme-visserie-filtration-avf,albi,avf gestion des fluides,occitanie,11-50,avf-albi.com
+france,,KyYEdQ5TlZCkGSfNW0eWxQ75iCSi,retail,linkedin.com/company/100-mode,valence-en-brie,100 % mode,île-de-france,1-10,
+france,,ODHwEcJIvqFxvKxB4aNdMwde1VmY,retail,linkedin.com/company/el-gazzar,boé,el gazzar,nouvelle-aquitaine,1-10,
+france,,EwWyITV5B0BaGYNtPeMQag9BC3BU,retail,linkedin.com/company/papier-maki,cheval-blanc,papier maki,provence-alpes-côte d'azur,1-10,papiermaki.fr
+france,2004,fykHF5bXDnVUB1i5r1wpzgDgf6We,retail,linkedin.com/company/informatique-40,mont-de-marsan,informatique 40,nouvelle-aquitaine,1-10,informatique40.com
+france,,b9cIKlWFeQYQAfbg67UM2wsiqfL3,retail,linkedin.com/company/distrimatic-concept,,distrimatic concept,centre,1-10,
+france,,JU0qkvGc4TXB51Z7ltZD8wgJWFKF,retail,linkedin.com/company/art-system,auray,art system,bretagne,1-10,
+france,,UTWt1MQVFJv77uZ1fIPoGgXpywtE,retail,linkedin.com/company/urmage,saint-genis-laval,urmage,auvergne-rhône-alpes,1-10,
+france,,8fcnKzwpo7FR8164x6HebwEVFxkW,retail,linkedin.com/company/fp-optique,pessac,fp optique,nouvelle-aquitaine,1-10,
+france,,C3p75rteCW4z5gQXDXHJRAtOA24A,retail,linkedin.com/company/clarme,couture,clarme,centre-val de loire,11-50,
+france,,i02C2zDNoE9MWmhkJjJ4AAXS6Vfb,retail,linkedin.com/company/images-de-demain,montpellier,images de demain,occitanie,1-10,carterie-encadrement-montpellier.com
+france,,m0WZ7cqrBd8J6p1vCTakKw8H7ax6,retail,linkedin.com/company/forbadis,forbach,forbadis,grand est,1-10,
+france,1980,GwlIaI3yGIFBZZCBKLeA9wuIFOtV,retail,linkedin.com/company/optique73,moûtiers,optique 73,auvergne-rhône-alpes,1-10,optique73.com
+france,,o5eugBQVorjQkBEBwUiguArw7T0s,retail,linkedin.com/company/femme-au-top,assis-sur-serre,femme au top,hauts-de-france,1-10,femmeautop.fr
+france,,csbIdAno2qiQNuaBaUikrgYCuJyP,retail,linkedin.com/company/champtoshop,champtoceaux,champtoshop,pays de la loire,1-10,
+france,2022,RrxtltQojwAdOHKiKfTkMg7qQEdi,retail,linkedin.com/company/warujuofficiel,lyon,waruju,auvergne-rhone-alpes,1-10,
+france,,R8CBfP6pEukvFJZLUfVpHg93qL5o,retail,linkedin.com/company/tma-shop,tremblay-en-france,tma shop,île-de-france,1-10,
+france,,LbAFAYDUNFB4ba6uBMnPoADv8DVb,retail,linkedin.com/company/maison-et-decoration-pruilh,bordeaux,maison et decoration pruilh,nouvelle-aquitaine,1-10,
+france,,JwySJl1cm35tKSNCjkGpJghcHIcd,retail,linkedin.com/company/poterie-artisanale,rue,poterie artisanale,hauts-de-france,1-10,
+france,,F4P3r08uNIiBhcWGEBVLEgXHdLHh,retail,linkedin.com/company/loridan-distribution,lyon,loridan distribution,auvergne-rhone-alpes,1-10,
+france,,8Fm68BP1CU18iSJn5Pz7SAr7Xz1f,retail,linkedin.com/company/metro-libre-service-de-gros,ergué-gabéric,metro libre service de gros,bretagne,1-10,
+france,1988,JqrsXoWYc8cCmvguGStCIggpft6j,retail,linkedin.com/company/delta-savoie,la ravoire,delta savoie,auvergne-rhône-alpes,11-50,deltasavoie.fr
+france,,SSgxmLc93i2UBAyBgJSJ3wk4yVJI,retail,linkedin.com/company/la-cuvee-normande,le bourg,la cuvee normande,occitanie,1-10,
+france,,uqCt55qEd52MiC2Aklu0JQyqgur4,retail,linkedin.com/company/societe-de-bricolage-de-l'oudon,saint-pierre-sur-dives,societe de bricolage de l'oudon,normandie,1-10,
+france,,9HBt3tVQk4Wn09QqCqM8gA8tQWve,retail,linkedin.com/company/aux-porcelaines-du-berry,le havre,aux porcelaines du berry,normandie,1-10,auxporcelainesduberry.fr
+france,2021,YgmGyhFtx1nhkBIxTUrB2QErjnMk,retail,linkedin.com/company/greek-gods-nft,lille,maison loutre,hauts-de-france,1-10,greekgodsnft.io
+france,,1gMVk3fRBBL8PfpmzpKNnweaTskF,retail,linkedin.com/company/galerie-jgm,paris,galerie jgm,île-de-france,1-10,jgmgalerie.com
+france,,pe2PlGhVyjivCcHZ55yfvQi6oZ1U,retail,linkedin.com/company/designix,vaulx-en-velin,designix,auvergne-rhône-alpes,1-10,designix.ca
+france,,H3tVDn5JkvAlJB1XjuwosAgSbLQQ,retail,linkedin.com/company/vallee-rodolphe,arles,vallee rodolphe,provence-alpes-côte d'azur,1-10,
+france,,dQOE35wWKG36FBQcvAuG9glWPAUd,retail,linkedin.com/company/ms-france-automotive,thiais,ms france automotive,île-de-france,1-10,
+france,2001,pGuCVqZPakSlndNYQBXgxAXK5a4K,retail,linkedin.com/company/optiquevigneron,argenton-sur-creuse,optique vigneron,centre-val de loire,1-10,optiquevigneron.fr
+france,,I1RhFVrSk5b37XcZfDEmVwgZY0p6,retail,linkedin.com/company/lovlife,veyrac,lovlife,nouvelle-aquitaine,1-10,
+france,,8tDToTFUGP2s6y5niBUmsAqbt9k8,retail,linkedin.com/company/california-styles,chez fayard,california styles,auvergne-rhône-alpes,1-10,
+france,,9An4ID6lLD6FDVedaO5yRAy68Uze,retail,linkedin.com/company/23-bis-decoration,nantes,23 bis decoration,pays de la loire,1-10,
+france,,ICdj5RhLE6SDRzeeABq95AN3I30E,retail,linkedin.com/company/frequence-live,saint-nicolas-de-la-grave,frequence live,occitanie,1-10,
+france,,vYbadsyX2mChe5IURT2OLAXLoKKe,retail,linkedin.com/company/manoir-et-traditions,honfleur,manoir et traditions,normandie,1-10,
+france,1973,hEP9zstScn2GBhICiCYurQj17xU5,retail,linkedin.com/company/sorecal,saint-priest-en-jarez,sorecal,auvergne-rhône-alpes,51-200,sorecal.fr
+france,,O7ojEeAKCz3VXkkwJz6glgxbVtO7,retail,linkedin.com/company/sarl-boucherie-du-mail,saint-martin-bellevue,sarl boucherie du mail,auvergne-rhône-alpes,1-10,
+france,2009,rnMpAF13T6gPQZdu9eAKVAkBSqn6,retail,linkedin.com/company/vs-distribution,saint-félix-lauragais,vs distribution,occitanie,1-10,vslingerie.fr
+france,,KiZdXYaJqesk3aVkr96cFAQuOXl5,retail,linkedin.com/company/crystal-optic,livry-gargan,crystal optic,île-de-france,1-10,
+france,,FBHs5beMxndsr6pFvkJT4goI093Y,retail,linkedin.com/company/k.f.p,,k.f.p,centre,1-10,
+france,,UrXtXiQmhfCs38CIVaYKggxlrcfG,retail,linkedin.com/company/point-express-mobile,aubagne,point express mobile,provence-alpes-côte d'azur,1-10,pointexpressmobile.fr
+france,,UrY97mWhugETehiXrxrx0gAtdpTu,retail,linkedin.com/company/sarl-cros,saïx,sarl cros,occitanie,1-10,sarl-cros.com
+france,,CGSCRxBgDd8mKRTPGWJzFggseIu4,retail,linkedin.com/company/monana-mambo-honasis,savigny-sur-orge,monana mambo honasis,île-de-france,1-10,
+france,,k3Zna5xVi6k54275lDwVbwUtfzLL,retail,linkedin.com/company/piscine-spa-design,bresles,piscine spa design,hauts-de-france,1-10,piscinespadesign.com
+france,,tcg1W4G1IZrF5lO9dk5LZQuQC0XU,retail,linkedin.com/company/reyes-silvio,perpignan,reyes silvio,occitanie,1-10,
+france,,PI50ft7PBx9UbdNEjCqBgglo00KD,retail,linkedin.com/company/sofines-beauty,aix-en-provence,sofines beauty,provence-alpes-côte d'azur,1-10,
+france,2020,pqwqDFqEOAq5n3sEbBC0OggwOqkc,retail,linkedin.com/company/maison-rollon,blainville-sur-orne,maison rollon,normandie,1-10,maisonrollon.com
+france,2003,SPql5b2a4Ca6LUp5I6Z6cAfqbuNB,retail,linkedin.com/company/sarl-les-yvelines,sommières,les yvelines,occitanie,1-10,
+france,,tAyYt8bi9c04D5Hgiwf7zgGq5aHm,retail,linkedin.com/company/azar-models,rezé,azar models,pays de la loire,1-10,azar-models.com
+france,,meCzJ45LuBFCA0zQ9zAX5gGmeNSc,retail,linkedin.com/company/central'poissonnerie,rue de pissot,central'poissonnerie,bourgogne-franche-comté,1-10,
+france,,gVRrnqhF29yKg8LeBDazJgFRRJzi,retail,linkedin.com/company/estrelle,brie-comte-robert,estrelle,île-de-france,1-10,
+france,,H7lLbYCbUXZJDCS8eXyfZgpPCCjU,retail,linkedin.com/company/d.m.s.i,doullens,d.m.s.i,hauts-de-france,1-10,
+france,1990,IPNjJqGd08zbgXhaVJ6dnQblzO5V,retail,linkedin.com/company/maison-de-la-presse,paris,maison de la presse,île-de-france,1001-5000,maisondelapresse.com
+france,2022,pPCfAZYBcYJUwSZ2gR9cBwKzK6T0,retail,linkedin.com/company/amk-art,rueil-malmaison,amk' art,île-de-france,1-10,amkart.fr
+france,,xIzuauqv4M5eIJ2qYyYepAkanwnT,retail,linkedin.com/company/ros'burger,sannois,ros'burger,île-de-france,1-10,rosburger.fr
+france,,pEA2lNTM03zmlD84OGwb0gZUXrNg,retail,linkedin.com/company/pas-de-géant,montigny-le-bretonneux,pas de géant,île-de-france,1-10,pasdegeant.fr
+france,,nPkbx0fAvC0FW8Mgynl8hQr6DO7l,retail,linkedin.com/company/bizim-cafe,livry-gargan,bizim cafe,île-de-france,1-10,
+france,1980,o9boNrQ1XEFALcKhu00h3w93bBeb,retail,linkedin.com/company/probureau-jc-prolivre,porto-vecchio,probureau jc-prolivre,corse,1-10,probureau.fr
+france,,8jmbhJLCB3dWJlLWOKZtEgOMWbKf,retail,linkedin.com/company/sylvision,saint-pierre-la-palud,sylvision,auvergne-rhône-alpes,1-10,sylvision.fr
+france,,pCUz5VB2uNv5FsAmXX09BA7d7P9G,retail,linkedin.com/company/mister-gamer,paris,mister gamer,île-de-france,1-10,
+france,,SgkF8GJLyE7M1zvfLWWuOgIrh4rQ,retail,linkedin.com/company/lj-system,chanteloup-les-vignes,lj system,île-de-france,1-10,lj-system.net
+france,,I3tSs9thGP9Te19Amiwr1AthrU7z,retail,linkedin.com/company/marie-edith-pousse-cornet,romorantin-lanthenay,marie-edith pousse cornet,centre-val de loire,1-10,
+france,,nr9YYKVM34aXGTL5hOyvtAZoo042,retail,linkedin.com/company/manga-bogla-jean-pascal,thorigny-sur-marne,manga bogla jean pascal,île-de-france,1-10,
+france,,Cl7HvqJn8YEin8Rd1brg6Q48Q3m5,retail,linkedin.com/company/boucherie-husson,sarrians,boucherie husson,provence-alpes-côte d'azur,1-10,
+france,,tCXs81EL7VzM4OKs6ngUBgYmfYft,retail,linkedin.com/company/sauzon-loisirs-motonautisme,sauzon,sauzon loisirs motonautisme,bretagne,1-10,
+france,,PgbDDEWbU8CdcUEGhLnBxQfmxfr0,retail,linkedin.com/company/cleasys,colomiers,cleasys,occitanie,1-10,
+france,,LHkEgs7c4hClJOBOimqUnwNz8kOo,retail,linkedin.com/company/adephone-sarl,forges-les-eaux,adephone sarl,normandie,1-10,
+france,,In3MHDaTLrKQw2lF9wA6Dgql1Alz,retail,linkedin.com/company/vichy-sport,vichy,vichy sport,auvergne-rhône-alpes,1-10,
+france,2018,v9JbxvGv8XCT9ryxQxBF4QsEPg3w,retail,linkedin.com/company/unufrance,toulouse,u & u,occitanie,11-50,unufrance.com
+france,,SaVszS2QDKSalheCUi0XUw42GNkW,retail,linkedin.com/company/problemes-solutions-informatiques,asnières-sur-seine,problemes solutions informatiques,île-de-france,1-10,
+france,,E7vBM7kaqDO9vtafJm7PBQeNQvTp,retail,linkedin.com/company/numero-31,saint-etienne,numero 31,auvergne-rhone-alpes,1-10,
+france,,Ux7OYkWaszWMkBbnBxPEjAMliPBM,retail,linkedin.com/company/cave-vins-de-france,ferney-voltaire,cave-vins de france,auvergne-rhône-alpes,1-10,cavevinsdefrance.fr
+france,,LT3PM0X555HCSITy9XMkBQuY0kJY,retail,linkedin.com/company/euro-optique,confolens,euro-optique,nouvelle-aquitaine,1-10,eurooptique.com
+france,,NZ2bCnXdbKEwAnf3bLBqBw75Vo2H,retail,linkedin.com/company/caredda,saint-gervais-les-bains,caredda,auvergne-rhône-alpes,1-10,
+france,,G9nwrCB85n8gJVSPc2GrjwX975IB,retail,linkedin.com/company/sadnoca,la mairie,sadnoca,bourgogne-franche-comté,11-50,
+france,,7Yr4XME97pGqqidRzYFEvQM9znU9,retail,linkedin.com/company/simplycode,évry,simplycode,île-de-france,1-10,simplycode.fr
+france,,YC8508f07ysu9gtBboqCngdXMEMY,retail,linkedin.com/company/ford-le-mans,le mans,ford le mans,pays de la loire,1-10,
+france,2007,n3TTq2o57ChUXeBbL3wuXgKiP5do,retail,linkedin.com/company/schmidt-fréjus,fréjus,schmidt fréjus,provence-alpes-côte d'azur,1-10,
+france,,J1T2CXUOJ4CTCJoNDR5UrgMkrsA9,retail,linkedin.com/company/kdr-electricite,saint-pierre-la-palud,kdr electricite,auvergne-rhône-alpes,1-10,
+france,,hSPYdz17vuxQyjZWMTaLigCBP18n,retail,linkedin.com/company/crysa-style,beausoleil,crysa-style,provence-alpes-côte d'azur,1-10,
+france,2019,d1YarFdLL8CcZxHHwcLZ0wzeFogQ,retail,linkedin.com/company/on-e-commerce,lille,kinemon.com,hauts-de-france,1-10,kinemon.com
+france,,X8IRWM8d7AweDVdEB3raMgIsKUMJ,retail,linkedin.com/company/artipôle,le mans,artipôle,pays de la loire,1-10,
+france,,qHBpggm0yCoOWEry0mVG0As758pf,retail,linkedin.com/company/bery,chambery,bery,auvergne-rhone-alpes,1-10,
+france,,peCRCUJITNClvRhV0r1rUgveMMsy,retail,linkedin.com/company/stella-auto,romainville,stella auto,île-de-france,1-10,
+france,,pFdCCSNkmAlfjt78SIl7wQZO5yqy,retail,linkedin.com/company/follow-me-now,genas,follow me now,auvergne-rhône-alpes,1-10,
+france,,eYB103JsCPxeONMUadKEvw804eyZ,retail,linkedin.com/company/s.a.s.-point-vision,rue,s.a.s. point vision,hauts-de-france,1-10,
+france,,pJELPEfUGKIBsfIDzK1edAYNCdSz,retail,linkedin.com/company/vamplus-guy-joseph-emile,les attaques,vamplus guy joseph emile,hauts-de-france,1-10,
+france,,EfvMruVIDefUQv7CPHO2WADGPLG4,retail,linkedin.com/company/la-maree-de-paris,le blanc-mesnil,la maree de paris,île-de-france,1-10,
+france,,OZOwBzuYr2cErsPiQm840QF3DEQv,retail,linkedin.com/company/le-chalet-bio,équemauville,le chalet bio,normandie,1-10,
+france,,fyKBmVTWf98sHa3q6vLafgLfugb2,retail,linkedin.com/company/le-gallo-amelie-sophie,hennebont,le gallo amelie sophie,bretagne,1-10,
+france,2001,zAKbYvv4ob7RTABZRBFgSQWYHMbU,retail,linkedin.com/company/maison-ghisoni-mariotti,bastia,maison ghisoni-mariotti,corse,11-50,ghisoni-mariotti.com
+france,,roWP1VTcsXbg5Jm2GQ30cwnb3py7,retail,linkedin.com/company/le-phare-des-goélands,grandchamps-des-fontaines,le phare des goélands,pays de la loire,1-10,
+france,2014,llNG1CGBp9ccM0glFUtuHA7QjX3n,retail,linkedin.com/company/mobilis-discount,chauray,mobilis,nouvelle-aquitaine,11-50,mobilisdiscount.com
+france,,NSAF3CBmF12ltUrTZm4sowuhfJQd,retail,linkedin.com/company/espace-t.b,asnières-sur-seine,espace t.b,île-de-france,1-10,
+france,,vEACyGltVxtozVyJ4i0HRw4Tc80P,retail,linkedin.com/company/domaine-le-cellier,toulouse,domaine le cellier,occitanie,1-10,domainelecellier.fr
+france,,C22SO8xU24ZLKWZD7N8Ybgo5GS2s,retail,linkedin.com/company/camopt,six-fours-les-plages,camopt,provence-alpes-côte d'azur,1-10,
+france,,s5NUvvCssbWPdX7YB6iYVAaLOQUY,retail,linkedin.com/company/sobaj,aubervilliers,sobaj,île-de-france,1-10,
+france,,ZFv0IJkaJT8sbZz9319dZgqvvx66,retail,linkedin.com/company/parfums-d'epices,morannes sur sarthe-daumeray,parfums d'epices,pays de la loire,1-10,
+france,2019,fHrcIYMBfnwZOna86TiYKg1Bq37d,retail,linkedin.com/company/stablo-les-chevalets-nomades,orléans,stablo - les chevalets nomades,centre-val de loire,1-10,stablo.fr
+france,,3ap5abtJ1u7LHHuLUoGJZQkoXmLy,retail,linkedin.com/company/concession-renault---la-valentine,marseille-en-beauvaisis,concession renault - la valentine,hauts-de-france,1-10,
+france,,ralTpKgsgQInprcIHMMdVgTFrS6r,retail,linkedin.com/company/aquadisiaque,gémenos,aquadisiaque,provence-alpes-côte d'azur,1-10,
+france,,9q9kg6T47VQAQGVwBiuZnwBfzc8G,retail,linkedin.com/company/original-centre,marseille-en-beauvaisis,original centre,hauts-de-france,1-10,
+france,2012,TLyZ5STMG3KLhb42oBZTQw3uxlo9,retail,linkedin.com/company/sam-kit,moncé-en-belin,sam kit,pays de la loire,1-10,sam-kit.fr
+france,,BcPDdthKfzTRBbYfzIyyPAEYd7yL,retail,linkedin.com/company/demont-jean-yves,roanne,demont jean yves,auvergne-rhône-alpes,1-10,
+france,,QaPr4qXLiOweamm3xbhyNgvM8AxQ,retail,linkedin.com/company/fortunapost,bagnolet,fortunapost,île-de-france,1-10,fortunapost.com
+france,,8alKwqdoEI37NphOBGxwsQWEElZ7,retail,linkedin.com/company/rx-corner,castanet-tolosan,rx corner,occitanie,1-10,rx-corner.com
+france,,gdcakGX0qzBN3pHolghx9wmKQGPL,retail,linkedin.com/company/soverneg,vernon,soverneg,normandie,1-10,
+france,,BH3tRpd1K0DcSp8yfq7C0QIuFU9U,retail,linkedin.com/company/faucher-dietetique,saint-médard-en-jalles,faucher dietetique,nouvelle-aquitaine,1-10,
+france,,ahIH5JOtBdE9a3QFYcCbfAZGtEzl,retail,linkedin.com/company/marthy-destockage,montbellet,marthy destockage,bourgogne-franche-comté,1-10,marthy-destockage.com
+france,,OKvgsCYBvzRYeqbS0JMs5wpsLsNB,retail,linkedin.com/company/sarl-elly---la-criee-des-monts-d'or,saint-germain-au-mont-d’or,sarl elly - la criee des monts d'or,auvergne-rhône-alpes,1-10,
+france,,wvUe2q4ze1iXIccA7CltBQfbdWdi,retail,linkedin.com/company/govenor,rue,govenor,hauts-de-france,1-10,
+france,,bOUqu7i3cWnUnOyz62B0qQJei353,retail,linkedin.com/company/muna-mboa,paris,muna mboa,île-de-france,1-10,munamboa.com
+france,,CBurNrDgOrOrwSYLef0B6QXDPxbK,retail,linkedin.com/company/isambourg-michael,houdain,isambourg michael,hauts-de-france,1-10,
+france,,0xaUgNvbyFPGeWoCcfXamQ7G4wZ9,retail,linkedin.com/company/association-bourguignonne-culturelle,dijon,association bourguignonne culturelle,bourgogne-franche-comté,1-10,
+france,,RlZ9jCECmzLgqb0D1b5TJQSimaaR,retail,linkedin.com/company/amiticia,sauvagnon,amiticia,nouvelle-aquitaine,1-10,
+france,,moICQBd0LmxiBCkoYBOjZwBprX76,retail,linkedin.com/company/pili-pok,lyon,pili-pok,auvergne-rhone-alpes,1-10,pili-pok.blogspot.com
+france,,2YDpsFovwU48otSf6ki4jQChoyOo,retail,linkedin.com/company/villefranche-de-rouergue-pneus,villefranche-de-rouergue,villefranche de rouergue pneus,occitanie,1-10,
+france,,JAWykivN0Oe0wlghp2GtfAdmNuSH,retail,linkedin.com/company/le-jardin-des-lices,carcassonne,le jardin des lices,occitanie,1-10,lejardindeslices.com
+france,,PmmIsCBHp9gVgouFl6nTmgCTu37j,retail,linkedin.com/company/be-chik,vieille-église,be chik,hauts-de-france,1-10,
+france,,ROonVoO6IdLgG03MEezAagmTgqZO,retail,linkedin.com/company/sasu-boucherie-charcuterie-mazure,saint-père,sasu boucherie charcuterie mazure,bourgogne-franche-comté,1-10,
+france,,AVa592YdZj00Q5US8DSioAPfMEF6,retail,linkedin.com/company/aleage,romorantin-lanthenay,aleage,centre-val de loire,1-10,
+france,,AifJ0pV8RcW8EyILBAhoJQEkrNS2,retail,linkedin.com/company/good-deal-mobile,paris,good deal mobile,île-de-france,1-10,
+france,,HT5j9SqzUW5BgRiL8iY0dwXipwhU,retail,linkedin.com/company/l'atelier-de-ludo,école,l'atelier de ludo,auvergne-rhône-alpes,1-10,latelier-de-ludo.net
+france,,3GW2BdeSAQ8NpMmjbJGSfw823GiB,retail,linkedin.com/company/ariege-cycles,toulouse,ariege cycles,occitanie,1-10,ariege-cycles.com
+france,,B92bnzdjIhpsrBYMZdG1Ig6rYOE2,retail,linkedin.com/company/sport-&-classic-cars,pont-l’évêque,sport & classic cars,normandie,1-10,
+france,,K5OeA0Jc8JYJPpyI5R4CaQgW1knj,retail,linkedin.com/company/alperformance,rue des perrins,alperformance,centre-val de loire,1-10,
+france,,u6GnPcSnfrGO41IulqrsCQ2dkmwy,retail,linkedin.com/company/regie-coralys,cluny,regie coralys,bourgogne-franche-comté,1-10,
+france,,v7i4ixBvACzWFNsJmvHaCgC0npgX,retail,linkedin.com/company/fromagerie-de-l'ile-verte,grenoble,fromagerie de l'ile verte,auvergne-rhone-alpes,1-10,
+france,1890,QUXvG5XgxjaI44r7Bg9HiQnflP1i,retail,linkedin.com/company/lenumero2louisfert,,le numéro 2,bretagne,1-10,facebook.com/lenumero2louisfert
+france,,cfmyOmKD8Z6iWt9CUqTzGwMvN7eP,retail,linkedin.com/company/cabaret-sport,compiègne,cabaret sport,hauts-de-france,1-10,
+france,,ERxwfZOJ9JoqzuuEXhgIVA5EQBfv,retail,linkedin.com/company/nelysa,auchy-les-mines,nelysa,hauts-de-france,1-10,nelysa.com
+france,2019,hY75hns5dmBGUqdx3HyLDAFFAtuG,retail,linkedin.com/company/biscuiterie-de-la-citadelle,port-louis,biscuiterie de la citadelle,bretagne,1-10,biscuiteriedelacitadelle.bzh
+france,,dF6JBARUOxJCP1wGjmZENAvcSkl2,retail,linkedin.com/company/sarl-hemera,limoges-fourches,sarl hemera,île-de-france,1-10,
+france,,CmVNmwguD47Cd9Ni08OrNwMBtJvN,retail,linkedin.com/company/les-rubans-bleus,vincennes,les rubans bleus,île-de-france,1-10,
+france,,5A7v2N6zuRJRBJR8sGmuMgmIXIzI,retail,linkedin.com/company/provin-avignon,avignon,provin avignon,provence-alpes-côte d'azur,1-10,provinavignon.fr
+france,,plsvJDIhBUx3vEPHPYmVswtAjiEO,retail,linkedin.com/company/sferic-stellite-sas,menars,sferic stellite sas,centre-val de loire,1-10,stellite.fr
+france,,vTL5ThsZw94UI77CvyJ2ywkNkmrd,retail,linkedin.com/company/avs-boulonnerie,ennevelin,avs boulonnerie,hauts-de-france,1-10,avsboulonnerie.fr
+france,,8twMCBWzbMBmOUSRhpcLBgdShihQ,retail,linkedin.com/company/verney-creation-s.a.r.l.,paris,verney creation s.a.r.l.,île-de-france,1-10,
+france,,3enz45IFj3barhifRma8cAnUZ3UN,retail,linkedin.com/company/beauvertige,beauvais,beauvertige,hauts-de-france,1-10,beauvertige.com
+france,,fBy0r0qpQDJzZa0QiMUs1wfr1bYS,retail,linkedin.com/company/horel-distribution,bordeaux,horel distribution,nouvelle-aquitaine,1-10,
+france,,em1FqqfjR9POcwlrECzE4Aiz0SNA,retail,linkedin.com/company/s.a.s-terreausoleil,barjols,s.a.s terreausoleil,provence-alpes-côte d'azur,1-10,
+france,,YBUBNEIL2uVTfaRDrMaPCQj9zeoF,retail,linkedin.com/company/running-87,limoges-fourches,running 87,île-de-france,1-10,running87.com
+france,,8mC8MDhGrhjLyg5loN1NhQD1LuKU,retail,linkedin.com/company/canapexpress,angers,canapexpress,pays de la loire,1-10,canapexpress49.fr
+france,,fthXubHcOPSBFBveIjdCAgZWPqwb,retail,linkedin.com/company/eurl-la-regalade,saint-jean-de-la-croix,eurl la regalade,pays de la loire,1-10,
+france,,LbMjafqbvAnXmC54cEDvEA7qfFHX,retail,linkedin.com/company/marché-d’adamville,saint-maur-des-fossés,marché d’adamville,île-de-france,1-10,
+france,2019,e7LdCefB5SQ3F1aRV3qoBAQ1yM6D,retail,linkedin.com/company/l-antre-de-mondes,compiègne,l'antre de mondes,hauts-de-france,1-10,antredemondes.fr
+france,2013,4clMUYd3pdxDZDKtWuhdOw0I3dtb,retail,linkedin.com/company/abh-aquitaine-bassin-hygiène,pessac,abh - aquitaine bassin hygiène,nouvelle-aquitaine,1-10,
+france,,b4YV1M2jUm4JRTChCfy8vg1w9IRZ,retail,linkedin.com/company/comptoir-de-l-ours-amiens,amiens,comptoir de l'ours amiens,hauts-de-france,1-10,
+france,1992,sioaH4QyxjHOv6uCvm6oswUCnzPi,retail,linkedin.com/company/acam-materiel-medical,urrugne,acam,nouvelle-aquitaine,11-50,acam-materiel-medical.fr
+france,,PB9zb45OkYBBiuWo6emIDw92hxVi,retail,linkedin.com/company/sahra-institut,saint-denis,sahra institut,île-de-france,1-10,
+france,,w7RQXb0iq6bld59LJRpkBgH8h1HE,retail,linkedin.com/company/jg-optical,douai,jg optical,hauts-de-france,1-10,
+france,,CbqKiMN57VrpmCmX3b5UlQpYnRIs,retail,linkedin.com/company/le-loft-concept-store,grasse,le loft concept store,provence-alpes-côte d'azur,1-10,leloftconceptstore.com
+france,,NEBDjX8eyD9G9ev1YejUpQZ89Jkt,retail,linkedin.com/company/maison-vendome,vendôme,maison vendome,centre-val de loire,1-10,
+france,,k08sclr1bCkHnhOo80z5eQQmhwOL,retail,linkedin.com/company/cesame-sarl,bayonne,cesame sarl,nouvelle-aquitaine,1-10,
+france,,2MguwqRvNf88iJNrHqiWaAj4HFJy,retail,linkedin.com/company/sodagral,vendeville,sodagral,hauts-de-france,1-10,
+france,,C1tphk4RlFwJhfzzgE1f6QQm252Z,retail,linkedin.com/company/louizi-rdouan,angers,louizi rdouan,pays de la loire,1-10,
+france,,CM8KpmeudLA0uObgbqHelwmSr0lV,retail,linkedin.com/company/bapau,rue,bapau,hauts-de-france,1-10,
+france,2021,opBuhyT2w4q22lREoC4c6ABibUP8,retail,linkedin.com/company/etape-locale,saint-didier-sur-chalaronne,etape locale,auvergne-rhône-alpes,1-10,etapelocale.fr
+france,,yRcz0vVRlH9WhpeUoIXBZgaXqJwK,retail,linkedin.com/company/as-auto-13,les pennes-mirabeau,as auto 13,provence-alpes-côte d'azur,1-10,
+france,,hpDCk649LJJZDteIHrStGA2ykGgv,retail,linkedin.com/company/sophivo,chasse-sur-rhône,sophivo,auvergne-rhône-alpes,1-10,
+france,,k0bpC0PZvDZ0yrZkZeTP4gk9qabn,retail,linkedin.com/company/galerie-liova,paris,galerie liova,île-de-france,1-10,galerie-liova.com
+france,,1L8OOSkqdAZQZeUKPyIj4ghcXYKu,retail,linkedin.com/company/chahan,paris,chahan,île-de-france,1-10,chahan.com
+france,,AYGDyUDcgVAsCcG3CbRu2Q4GmcX3,retail,linkedin.com/company/le-comptoir-solidaire,auch,le comptoir solidaire,occitanie,1-10,lecomptoirsolidaire.com
+france,,2qnw4Gweo1jobBfBxJznoAgLga6m,retail,linkedin.com/company/gap-auto-passion,gap,gap auto passion,provence-alpes-côte d'azur,1-10,
+france,,mCWGELfAv7gfYEuc76t2Kg8cFurL,retail,linkedin.com/company/little-candy-shop---conception,nimes,little candy shop - conception,occitanie,1-10,littlecandyshop.fr
+france,,mYFIoyHqEL2gmpCHCZdHpwKJRgmk,retail,linkedin.com/company/auto-moto-export-achat,l’isle-jourdain,auto moto export achat,occitanie,1-10,
+france,,bkSYycKlGAPoaB7BhNBQlwH1TARe,retail,linkedin.com/company/iriva,gravigny,iriva,normandie,1-10,
+france,,cltGQifQQN0v2m27x0HiDQaspB8Y,retail,linkedin.com/company/seclindis,seclin,seclindis,hauts-de-france,201-500,
+france,,IVBr55NzvKwKhcwK32Krsw7xxlxN,retail,linkedin.com/company/les-mariés-de-sully,sully-sur-loire,les mariés de sully,centre-val de loire,1-10,lesmariesdesully.com
+france,,6rMevxFAHWkVdyiFCYD7zgECWwCs,retail,linkedin.com/company/vert-autrement,blagnac,vert autrement,occitanie,1-10,vertautrement.fr
+france,,Jldw6hxkZBWLPTz47eLJdQqLPrbu,retail,linkedin.com/company/roinson,pacé,roinson,bretagne,1-10,
+france,,W9z0wOC4XLzm6mCeUPxfegFquVtC,retail,linkedin.com/company/chateaudis,châteauneuf-sur-charente,chateaudis,nouvelle-aquitaine,1-10,
+france,,cwOTgjTZJRvfMfnoNN5MEgkijHvL,retail,linkedin.com/company/décosopht,sainte-menehould,décosopht,grand est,1-10,decosopht.business.site
+france,,a5V0QMa0fcSYYDNRpYbRnQroZbLB,retail,linkedin.com/company/sodibag,flines-lès-raches,sodibag,hauts-de-france,201-500,
+france,2014,HlaY7SNPhguqSYp7CdrJ4wZIlj95,retail,linkedin.com/company/animus-corp,bezannes,animus corp,grand est,1-10,animus-store.com
+france,2007,hWErzCldiVsIenEU107BAgQdikc1,retail,linkedin.com/company/cbo-group,boé,cbo group | 🇫🇷,nouvelle-aquitaine,51-200,cbogroup.fr
+france,,qd6gKSfvJwjdBkiOsf4Tnwc8MpTe,retail,linkedin.com/company/prise-de-mousse,rilly-la-montagne,prise de mousse,grand est,1-10,
+france,,xgdQ9YfcYaoDpqpr215EVgSReSFH,retail,linkedin.com/company/chaussures-addo,rue de chorette,chaussures addo,hauts-de-france,1-10,
+france,,dUm5ZYrv5XGAb1r0wOzBiAIkOE1P,retail,linkedin.com/company/west-batterie,camors,west batterie,bretagne,1-10,westbatterie.fr
+france,1978,0cVmc10lNk09qCLjyCYALwVDebf1,retail,linkedin.com/company/maison-lauret,uzès,maison lauret - optique et audition,occitanie,1-10,maison-lauret.fr
+france,,yIuJwl22bQsdGNq0PhXcwgCxY1aK,retail,linkedin.com/company/la-boutique-de-kroll.com,paris,la boutique de kroll.com,île-de-france,1-10,laboutiquedekroll.com
+france,,2msJWaKA9xldnIAY3VZjxwC2nbyn,retail,linkedin.com/company/sarl-passion-deco,grasse,sarl passion deco,provence-alpes-côte d'azur,1-10,
+france,,Bp9A6LBTEUrP5vJaPUPlpAudjEEC,retail,linkedin.com/company/kcm-distribution,,kcm distribution,,1-10,
+france,2018,reZ8NGWzXBWHB6153BXiow2rJm7j,retail,linkedin.com/company/les-comptoirs-sigolenois,sainte-sigolène,les comptoirs sigolenois,auvergne-rhône-alpes,1-10,lescomptoirssigolenois.fr
+france,,hKboVAKJJykfglEWRYATDAt39QsF,retail,linkedin.com/company/paille-&-compagnie,jâlons,paille & compagnie,grand est,1-10,paillecompagnie.fr
+france,,dC4nWr48FElsTiRCOKhg9ggk0WaF,retail,linkedin.com/company/i-golosi,le raincy,i golosi,île-de-france,1-10,
+france,2019,VoeL92xIifL4eBF2C7GB1QLQJL4X,retail,linkedin.com/company/beautysex,perpignan,beautylady lingerie,occitanie,1-10,beautylady.fr
+france,2016,i67GlRRWejObiOfY2OOk7wF0QL8q,retail,linkedin.com/company/clip-it,montpellier,clip it,occitanie,1-10,clip-it.fr
+france,,ktUZzJdKx3eQxIz50mGM5AL4EWWB,retail,linkedin.com/company/c.s.l-i-i,argenteuil,c.s.l i i,île-de-france,1-10,
+france,,nDB2LuhiVwjIsZfzMtqnVAujMXCu,retail,linkedin.com/company/color-avenue,châteaudun,color avenue,centre-val de loire,1-10,color-avenue.com
+france,,jNLzRPZwJImGekBSk1nc7gaCRS3V,retail,linkedin.com/company/jl-perruques,lyon,jl perruques,auvergne-rhone-alpes,1-10,
+france,,YfGfBmPulDLKJHPMCqHB8AbCght1,retail,linkedin.com/company/montanashop-montpellier,montpellier,montanashop montpellier,occitanie,1-10,
+france,,7dl1NyHEjXw2gd7EDt5B7gC6Gb3K,retail,linkedin.com/company/r-t-distribution,chambourcy,r t distribution,île-de-france,1-10,
+france,,WMfeBZQ4XRWCCPCcdc6bRgDXb5oZ,retail,linkedin.com/company/les-ateliers-de-franca,ingersheim,les ateliers de franca,grand est,1-10,
+france,,xJjtrzGB9GsVPeJpMRoulw3GImUm,retail,linkedin.com/company/la-valse-fleurie,garges-lès-gonesse,la valse fleurie,île-de-france,1-10,
+france,,6oEeEO4ZRkeKJF8MdwrQrAs1qNMj,retail,linkedin.com/company/arabesque-désorienté,lyon,arabesque désorienté,auvergne-rhone-alpes,1-10,arabesque-krea.com
+france,,iOaEBzVqADCFcwN1iDOt4gFn5MBu,retail,linkedin.com/company/queyras,montpellier,queyras,occitanie,1-10,
+france,,Nq8gkEGZ6S0yUWBDQlmhQgyWb7H2,retail,linkedin.com/company/color-di-roma,palavas-les-flots,color di roma,occitanie,1-10,
+france,,pdBAWnrfjngmgQm2ojc4YwIs6hz9,retail,linkedin.com/company/ha-mon-services,bayonne,ha-mon-services,nouvelle-aquitaine,1-10,
+france,,xv6ox0pNsTfg4CNAIiKjWwr3utin,retail,linkedin.com/company/guelec,maison neuve,guelec,grand est,1-10,
+france,2021,9jDFL6V39GCzf5BCsLhPGwRjZlqH,retail,linkedin.com/company/edition-limitée-concept-store,pertuis,edition limitée concept store,provence-alpes-côte d'azur,1-10,editionlimitee-store.fr
+france,2022,WZuEQlbBY5eExsj2hxR8pAFrlnMQ,retail,linkedin.com/company/kyvato,paris,kyvato,île-de-france,1-10,kyvato.com
+france,,XKUiy2kuEACJh9CPTIzU0w834eSz,retail,linkedin.com/company/sobetel,issoudun,sobetel,centre-val de loire,1-10,
+france,,7qxT8d3LdYz5DAmvxVAf7g1ylifi,retail,linkedin.com/company/jack-sport,la salle-les-alpes,jack sport,provence-alpes-côte d'azur,1-10,
+france,,lFZNdBMlZKCzR3AmBEZ25QaNyWtO,retail,linkedin.com/company/ideal-optique,elbeuf,ideal optique,normandie,1-10,idealoptique.com
+france,,bZ8Ii8iaWwJzMQcLqZQM6gYWCP2n,retail,linkedin.com/company/librairie-lardanchet,paris,librairie lardanchet,île-de-france,1-10,lardanchet.fr
+france,,FrasrgP1M9bx9OXhIgezvAz8Coad,retail,linkedin.com/company/didier-pons,cestas,didier pons,nouvelle-aquitaine,1-10,
+france,,t8YDqj0GCYEsiAZirjtL9guNyJO7,retail,linkedin.com/company/nutriprevent,ventabren,nutriprevent,provence-alpes-côte d'azur,1-10,
+france,,UZWT50mlByCW9Ov2vGgfPAQjP1oW,retail,linkedin.com/company/imhoteps,albi,imhoteps,occitanie,1-10,
+france,,uzxE4ymshh1lDDuDiszleg479TCQ,retail,linkedin.com/company/castel-optik,châteaubriant,castel optik,pays de la loire,1-10,
+france,,90kkwnLc6i6b0aQHLVFS3QjirxhQ,retail,linkedin.com/company/atelier-apres-la-pluie...,orléans,atelier apres la pluie...,centre-val de loire,1-10,atelierapreslapluie.fr
+france,,VmRfEQk581ZHFtoEimww5wHlmO2c,retail,linkedin.com/company/lgdj,paris,lgdj,île-de-france,1-10,lgdj.fr
+france,,i7Cdb8GbVZWM3ii2lBuKMwKl71F6,retail,linkedin.com/company/shop-carrosserie,malemort-sur-corrèze,shop carrosserie,nouvelle-aquitaine,1-10,
+france,,1v3joDRXN4CZ8k51XFYVVQUIyvKH,retail,linkedin.com/company/emmanuelle-soulard,ornon,emmanuelle soulard,auvergne-rhône-alpes,1-10,
+france,,UlnFHTsBE8vi7RfEBYsUHQJgzUHO,retail,linkedin.com/company/societe-le-vivier,guécélard,societe le vivier,pays de la loire,1-10,
+france,,BOHbtN60Ra5gD6tHSPTyvAT6hIsw,retail,linkedin.com/company/la-friperie-nomade,bordeaux,la friperie nomade,nouvelle-aquitaine,1-10,lafriperienomade.fr
+france,,ojrMxKCCpMhMYTYML5VLBwULZH3C,retail,linkedin.com/company/air-optical,bondy,air optical,île-de-france,1-10,
+france,2020,jBgX9owteGLCcuDyDzZGgQsShepS,retail,linkedin.com/company/fenicy-france,lille,fenicy,hauts-de-france,1-10,fenicy.com
+france,,BqmORwdgudsDybd9SCk3CgmHh1MY,retail,linkedin.com/company/un-amour-de-bonbon,paris,un amour de bonbon,île-de-france,1-10,
+france,,mCzPIhM3rJJdwBruIZwpZgHP5fqe,retail,linkedin.com/company/eurl-mgl,rue de chorette,eurl mgl,hauts-de-france,1-10,
+france,,LabUtecTkX3n6TKlFS980A2K2nbE,retail,linkedin.com/company/flore-&-sens,panissières,flore & sens,auvergne-rhône-alpes,1-10,flore-sens.fr
+france,,2jeE5W35WMdAkasZAQgWyAZAeUNf,retail,linkedin.com/company/global-palettes-services,craywick,global palettes services,hauts-de-france,1-10,
+france,,CUfQBHpMS48G231o1Cbv6QTxPOD6,retail,linkedin.com/company/bazella,bazas,bazella,nouvelle-aquitaine,1-10,
+france,2019,srEFBZIPtx6gW1gfC4aT8wIAuG7v,retail,linkedin.com/company/les-imparfaits,chazelles-sur-lyon,les imparfaits,auvergne-rhône-alpes,1-10,les-imparfaits.fr
+france,,dh1gpWBoBIZrNBhLo8uZ4QTho3mQ,retail,linkedin.com/company/medical-dewitte,épernay,medical dewitte,grand est,1-10,
+france,,UC2pDo1hDuCiCyIHr8LDygYC5dTn,retail,linkedin.com/company/ivoire-tropical,évreux,ivoire tropical,normandie,1-10,
+france,,j3zOfrpR0nQdYXIwxztCPAMEM8D8,retail,linkedin.com/company/franckmusic,saint-genis-laval,franckmusic,auvergne-rhône-alpes,1-10,
+france,,OO9K6pOVOkUgC6MbEwiiYwVu2KEa,retail,linkedin.com/company/solaire-diffusion,gardanne,solaire diffusion,provence-alpes-côte d'azur,1-10,solaire-diffusion.eu
+france,,0zeitqlqWcQEwngIxmkLYAyxjvlP,retail,linkedin.com/company/aromes-et-vapeurs,six-fours-les-plages,aromes et vapeurs,provence-alpes-côte d'azur,1-10,
+france,,Uh0gjOSPYmq8aoqRC5ebcQkFWrHe,retail,linkedin.com/company/laurencio,nice,laurencio,provence-alpes-côte d'azur,1-10,
+france,2017,8ezdLuXl4BLPASflIA56twtYO3gK,retail,linkedin.com/company/l'ideal-des-gourmands,orgeval,l'idéal des gourmands,île-de-france,11-50,lidealdesgourmands.com
+france,,IPY5ucmB4evbFgFMymUbsQCSEKnJ,retail,linkedin.com/company/cote-d'azur-services-auto,toulon,cote d'azur services auto,provence-alpes-côte d'azur,1-10,
+france,,U4z80OHnezoeznTTZCceIAcRZckt,retail,linkedin.com/company/seby-and-fredy,blois,seby and fredy,centre-val de loire,1-10,
+france,,qz1YzewBdEsDSBcy1VSCuQHRJJj5,retail,linkedin.com/company/suniz,paris,suniz,île-de-france,1-10,suniz.fr
+france,,ijhTod7VQHzMh9pfeDD1Rwxif6wS,retail,linkedin.com/company/auchan-guilherand-granges,guilherand-granges,auchan guilherand-granges,auvergne-rhône-alpes,201-500,promo-du-moment.fr
+france,,7I7RT1NyaavVCUk6kIIvlQA3ZuX4,retail,linkedin.com/company/highvap,poillé-sur-vègre,highvap,pays de la loire,1-10,
+france,,IZ0lkryLfUUZFagRyjSkHQbs0Lfp,retail,linkedin.com/company/mp-provence,toulon,mp provence,provence-alpes-côte d'azur,1-10,
+france,1976,sFSILo3envIACoDnlAHW0AyqGvQ3,retail,linkedin.com/company/tees-trans-europe-enviro-services,manom,tees (trans europe enviro services),grand est,1-10,teesfrance.eu
+france,,lZBgqgvAW3Jm9bIsBrSOSAdDeYIj,retail,linkedin.com/company/cartalis,paris,cartalis,île-de-france,1-10,
+france,,LW9tklW039RLHvfto7QZBQihgoja,retail,linkedin.com/company/au-gentil-degriffeur,saint-germain-en-laye,au gentil degriffeur,île-de-france,1-10,
+france,,34JiBUo0BCnNe3DPZ1f6yA5vIIMR,retail,linkedin.com/company/tayri-export,saint-ouen,tayri export,île-de-france,1-10,
+france,,1tl2iM6YOgVme3IOppvKMwoc893X,retail,linkedin.com/company/des-livres-et-delices-des-livres-et-delices,cazères,des livres et delices des livres et delices,occitanie,1-10,deslivresetdelices.blogspot.com
+france,1942,bCenBbSRyTIOhhMVmGODow482Wx3,retail,linkedin.com/company/pharmasaintpaul,saint-paul-lès-dax,pharmacie saint paul,nouvelle-aquitaine,11-50,
+france,,bMtfUGksDLbLlpZlfL236w9Rnuvx,retail,linkedin.com/company/eyelook,montpellier,eyelook,occitanie,1-10,lunettesmontpellier.com
+france,,c2vl6r64bfeLMGKrfhihOwExczUc,retail,linkedin.com/company/fillia,marseille-en-beauvaisis,fillia,hauts-de-france,1-10,
+france,,ODMgOOXGBqV2VeCdlgVdrgfIQgfv,retail,linkedin.com/company/leader-price-exploitation,vitry-sur-seine,leader price exploitation,île-de-france,1001-5000,
+france,,zcHvdQRZ5yKrBHYD5HzFNQl8r3ma,retail,linkedin.com/company/eurl-guermat-import-export,chantraine,eurl guermat import-export,grand est,1-10,
+france,,B9sdc5kUf7JYQY76y9AU7A07XMKt,retail,linkedin.com/company/unisportstore,paris,unisportstore,île-de-france,1-10,unisportstore.fr
+france,,oCDSG8CS949CXadkvBiNWQRX1oeJ,retail,linkedin.com/company/nautic-balagne,calvi,nautic balagne,corse,1-10,nauticbalagne.fr
+france,,nveaHBf0vSABM89XCstPqAE4z5uo,retail,linkedin.com/company/topsellerpro,toulouse,topsellerpro,occitanie,1-10,topsellerpro.fr
+france,,2UW7OcGTzev5AAjUz6Pn2QKCFw0D,retail,linkedin.com/company/boucherie-castro,la talaudière,boucherie castro,auvergne-rhône-alpes,1-10,
+france,,rCYkWYyuvV76Xae7x6SCjw4HhDJ3,retail,linkedin.com/company/v-de-vinster,bidart,v de vinster,nouvelle-aquitaine,1-10,vdevinster.fr
+france,,Kkhq4a0Pj3Ye8WrUInBtHgdpVHYX,retail,linkedin.com/company/oyonnax-optic,oyonnax,oyonnax optic,auvergne-rhône-alpes,1-10,
+france,,WhhMNqudlibnODSE9JD5Bgsz6U16,retail,linkedin.com/company/bouygues-télécom-boutique,toulouse,bouygues télécom boutique,occitanie,1-10,
+france,2020,tjJepWBbjf0VuwsSpV829gyCcvuz,retail,linkedin.com/company/emilyssa,champagne-sur-seine,emilyssa concept store friperie,île-de-france,1-10,emilyssa.com
+france,,4NVEGh8ZS2Ifdhgy6K7QKgXXyMBh,retail,linkedin.com/company/duo-life,gommécourt,duo life,île-de-france,1-10,
+france,,i2I3mUB1Va3zCNlC4vCtgA0z0uNg,retail,linkedin.com/company/sarl-casse-auto-moto-fieschi,hyères,sarl casse auto-moto fieschi,provence-alpes-côte d'azur,1-10,est-fieschi.com
+france,,PnOLZPIHTgcs17G4mIAnBACKBj9t,retail,linkedin.com/company/les-petites-graines-by-aida-k.,chevilly-larue,les petites graines by aida k.,île-de-france,1-10,
+france,,gyYvD5gNmUlGhm1tg59CiQhQN1zl,retail,linkedin.com/company/june-tech,séné,june tech,bretagne,1-10,
+france,,EHw9fToV0mJUm40e09FJQgLgWf1d,retail,linkedin.com/company/cheminees-et-cuisines-2000,perpignan,cheminees et cuisines 2000,occitanie,1-10,
+france,,YuwHRrxV2RFUgkd5y3hbdQfgzXpT,retail,linkedin.com/company/maison-energie,montélimar,maison energie,auvergne-rhône-alpes,1-10,
+france,,r1t1Gl2jt9uQmzgdvucHOgwdwaHG,retail,linkedin.com/company/smms-informatique,la ferté-sous-jouarre,smms informatique,île-de-france,1-10,smms-informatique.com
+france,,0SnTxmSfWf3HCZ7IbB0xaAiGEz22,retail,linkedin.com/company/le-fournisseur-du-batiment,paris,le fournisseur du batiment,île-de-france,1-10,
+france,,zxcTYh5tOI6XQEDplcucVAG9tXNK,retail,linkedin.com/company/parchemin-art-et-livre,noisy-le-sec,parchemin art et livre,île-de-france,1-10,
+france,,MCQapxN9tRUsjj0iO9YsAQ4TaCIe,retail,linkedin.com/company/hts-distribution,aix-en-provence,hts distribution,provence-alpes-côte d'azur,1-10,
+france,,rCEBrN91RCKsJfkB777iVQk551ac,retail,linkedin.com/company/etablissements-melquior-le-jardin-de-nadege,carpentras,etablissements melquior le jardin de nadege,provence-alpes-côte d'azur,1-10,
+france,,39NLbTzmok6bevspr0BpUAkmHRqf,retail,linkedin.com/company/paquebot-sarl,paris,paquebot sarl,île-de-france,1-10,
+france,,pCJ9TAda1cnYHUOBXHfi9gvW8Phm,retail,linkedin.com/company/optique-thiers,bordeaux,optique thiers,nouvelle-aquitaine,1-10,optique-thiers-vosges.fr
+france,,ECP9tBmnNwdP02a1xhMwQwK0Rj5q,retail,linkedin.com/company/boutard-christian,tergnier,boutard christian,hauts-de-france,1-10,
+france,2020,hvk96o5douT4bYFqG6lpQAd23I3b,retail,linkedin.com/company/cottonpepperwood,roubaix,cotton pepper wood,hauts-de-france,1-10,cottonpepperwood.com
+france,,s8w8K8BOfi8j5fI9FQ7QsgsIU239,retail,linkedin.com/company/lorient-automobiles,lorient,lorient automobiles,bretagne,1-10,
+france,2019,XXg9nF1a3tfoVtuG1OilKwgaJc8u,retail,linkedin.com/company/imaginaire-gourmand,saint-quentin-des-prés,imaginaire gourmand,hauts-de-france,1-10,imaginairegourmand.fr
+france,,nZFXDIrRqeEr8JV6XIrZCwhYRlct,retail,linkedin.com/company/societe-impact-afrik,rue de chorette,societe impact afrik,hauts-de-france,1-10,
+france,,uOaV0WsETxfTHvbKoGJFpwxE4uSJ,retail,linkedin.com/company/j-c-d-b,chazelles-sur-lavieu,j c d b,auvergne-rhône-alpes,1-10,
+france,,Iq50DrcXbHAVDCSzfaCHOAA5Y2Yl,retail,linkedin.com/company/couvelard,saint-martin-boulogne,couvelard,hauts-de-france,1-10,
+france,2019,k1V3ZYuium5ziCCeK2Zz6QcxVc0I,retail,linkedin.com/company/exelmat-sas,chazelles-sur-lyon,exelmat sas,auvergne-rhône-alpes,1-10,exelmat.com
+france,,BBIWfCuOkr4Qe01QM11r4gqHw4PU,retail,linkedin.com/company/huguier,les petits camps,huguier,provence-alpes-côte d'azur,1-10,
+france,,Nkh4FK33VOy0TzQcBB10Fg2t6WR0,retail,linkedin.com/company/sarl-oxygene7,illkirch-graffenstaden,sarl oxygene7,grand est,1-10,
+france,,T8asND2ORSW3P9v7Yx9TPgFZIp1Z,retail,linkedin.com/company/c.m.f.c.,le péage-de-roussillon,c.m.f.c.,auvergne-rhône-alpes,1-10,
+france,,apZd1VHLSK5P4prnCzZgZgHGmhyy,retail,linkedin.com/company/acedis-representation,lognes,acedis representation,île-de-france,1-10,
